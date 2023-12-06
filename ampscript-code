@@ -1,0 +1,1 @@
+%%=IIF(Field(Row(BuildRowSetFromXML(AttributeValue('xml_data'),'//order/product-lineitems/product-lineitem/product-id', 0), 1),'Value')=='add text here','test@test.com','')=%%
